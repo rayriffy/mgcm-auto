@@ -6,7 +6,8 @@ An automation script to do daily missions by itself on magical girl game called 
 Requirements
 ---
 
-- Python 3+
+- Python 3
+- Game canvas size should be on default zoom level (1138px * 640px)
 
 Install
 ---
